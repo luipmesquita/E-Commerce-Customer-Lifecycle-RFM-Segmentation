@@ -1,4 +1,3 @@
-# E-Commerce-Customer-Lifecycle-RFM-Segmentation
 # 📊 E-Commerce Customer Lifecycle & RFM Segmentation
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
